@@ -77,8 +77,8 @@ If you have suggestions for improvements or encounter issues:
 4. Push to the branch
 5. Create a new Pull Request
 
-## License 😁
-This project is open source and available under the [MIT License](LICENSE).
+## License 
+This project is open source and available under the MIT License.
 
 ## Contact
 For questions or support, please create an issue in the repository.
